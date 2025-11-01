@@ -1,10 +1,3 @@
-
-#!/usr/bin/env python3
-"""
-ENCS351 - Lab 2: System Startup, Process Creation, and Termination Simulation
-Author: Harsh Kumar
-"""
-
 import multiprocessing
 import time
 import logging
